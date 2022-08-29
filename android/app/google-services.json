@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "527173528177",
+    "project_id": "android-topup-game",
+    "storage_bucket": "android-topup-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527173528177:android:1a6df782f2578817b009d0",
+        "android_client_info": {
+          "package_name": "com.example.modulberapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527173528177-9ce15vtpsgs8qar2sga0mclqco6lmp3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmQk-W3TimJF0vEx9q0ijrlIPDrdPMJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527173528177-9ce15vtpsgs8qar2sga0mclqco6lmp3b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527173528177-cs954c3u1ao1c69foq9b33u2umub7soj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.modulberapa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
